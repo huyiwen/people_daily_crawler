@@ -1,0 +1,3 @@
+[submodule "voyager"]
+	path = voyager
+	url = https://github.com/mattsse/voyager.git
